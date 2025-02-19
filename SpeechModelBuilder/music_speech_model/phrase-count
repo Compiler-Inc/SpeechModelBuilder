@@ -1,0 +1,227 @@
+10	Ionian
+10	Dorian
+10	Phrygian
+10	Lydian
+10	Mixolydian
+10	Aeolian
+10	Locrian
+10	tritone
+10	tonic
+10	subdominant
+10	dominant
+10	cadence
+10	modulation
+0	explain the chord progression in this melody
+0	explain the chord progression here
+0	explain the chord progression in this passage
+0	explain the chord progression in this section
+0	explain the chord progression in this piece
+0	explain the cadence in this melody
+0	explain the cadence here
+0	explain the cadence in this passage
+0	explain the cadence in this section
+0	explain the cadence in this piece
+0	explain the modulation in this melody
+0	explain the modulation here
+0	explain the modulation in this passage
+0	explain the modulation in this section
+0	explain the modulation in this piece
+0	explain the mode in this melody
+0	explain the mode here
+0	explain the mode in this passage
+0	explain the mode in this section
+0	explain the mode in this piece
+0	explain the tonal center in this melody
+0	explain the tonal center here
+0	explain the tonal center in this passage
+0	explain the tonal center in this section
+0	explain the tonal center in this piece
+0	explain the key center in this melody
+0	explain the key center here
+0	explain the key center in this passage
+0	explain the key center in this section
+0	explain the key center in this piece
+0	determine the chord progression in this melody
+0	determine the chord progression here
+0	determine the chord progression in this passage
+0	determine the chord progression in this section
+0	determine the chord progression in this piece
+0	determine the cadence in this melody
+0	determine the cadence here
+0	determine the cadence in this passage
+0	determine the cadence in this section
+0	determine the cadence in this piece
+0	determine the modulation in this melody
+0	determine the modulation here
+0	determine the modulation in this passage
+0	determine the modulation in this section
+0	determine the modulation in this piece
+0	determine the mode in this melody
+0	determine the mode here
+0	determine the mode in this passage
+0	determine the mode in this section
+0	determine the mode in this piece
+0	determine the tonal center in this melody
+0	determine the tonal center here
+0	determine the tonal center in this passage
+0	determine the tonal center in this section
+0	determine the tonal center in this piece
+0	determine the key center in this melody
+0	determine the key center here
+0	determine the key center in this passage
+0	determine the key center in this section
+0	determine the key center in this piece
+0	find the chord progression in this melody
+0	find the chord progression here
+0	find the chord progression in this passage
+0	find the chord progression in this section
+0	find the chord progression in this piece
+0	find the cadence in this melody
+0	find the cadence here
+0	find the cadence in this passage
+0	find the cadence in this section
+0	find the cadence in this piece
+0	find the modulation in this melody
+0	find the modulation here
+0	find the modulation in this passage
+0	find the modulation in this section
+0	find the modulation in this piece
+0	find the mode in this melody
+0	find the mode here
+0	find the mode in this passage
+0	find the mode in this section
+0	find the mode in this piece
+0	find the tonal center in this melody
+0	find the tonal center here
+0	find the tonal center in this passage
+0	find the tonal center in this section
+0	find the tonal center in this piece
+0	find the key center in this melody
+0	find the key center here
+0	find the key center in this passage
+0	find the key center in this section
+0	find the key center in this piece
+0	analyze the chord progression in this melody
+0	analyze the chord progression here
+0	analyze the chord progression in this passage
+0	analyze the chord progression in this section
+0	analyze the chord progression in this piece
+0	analyze the cadence in this melody
+0	analyze the cadence here
+0	analyze the cadence in this passage
+0	analyze the cadence in this section
+0	analyze the cadence in this piece
+0	analyze the modulation in this melody
+0	analyze the modulation here
+0	analyze the modulation in this passage
+0	analyze the modulation in this section
+0	analyze the modulation in this piece
+0	analyze the mode in this melody
+0	analyze the mode here
+0	analyze the mode in this passage
+0	analyze the mode in this section
+0	analyze the mode in this piece
+0	analyze the tonal center in this melody
+0	analyze the tonal center here
+0	analyze the tonal center in this passage
+0	analyze the tonal center in this section
+0	analyze the tonal center in this piece
+0	analyze the key center in this melody
+0	analyze the key center here
+0	analyze the key center in this passage
+0	analyze the key center in this section
+0	analyze the key center in this piece
+0	identify the chord progression in this melody
+0	identify the chord progression here
+0	identify the chord progression in this passage
+0	identify the chord progression in this section
+0	identify the chord progression in this piece
+0	identify the cadence in this melody
+0	identify the cadence here
+0	identify the cadence in this passage
+0	identify the cadence in this section
+0	identify the cadence in this piece
+0	identify the modulation in this melody
+0	identify the modulation here
+0	identify the modulation in this passage
+0	identify the modulation in this section
+0	identify the modulation in this piece
+0	identify the mode in this melody
+0	identify the mode here
+0	identify the mode in this passage
+0	identify the mode in this section
+0	identify the mode in this piece
+0	identify the tonal center in this melody
+0	identify the tonal center here
+0	identify the tonal center in this passage
+0	identify the tonal center in this section
+0	identify the tonal center in this piece
+0	identify the key center in this melody
+0	identify the key center here
+0	identify the key center in this passage
+0	identify the key center in this section
+0	identify the key center in this piece
+3	did it modulate to Locrian
+3	did it modulate to Aeolian
+3	did it modulate to Mixolydian
+3	did it modulate to Lydian
+3	did it modulate to Phrygian
+3	did it modulate to Dorian
+3	did it modulate to Ionian
+3	are we hearing Locrian
+3	are we hearing Aeolian
+3	are we hearing Mixolydian
+3	are we hearing Lydian
+3	are we hearing Phrygian
+3	are we hearing Dorian
+3	are we hearing Ionian
+3	does this use Locrian
+3	does this use Aeolian
+3	does this use Mixolydian
+3	does this use Lydian
+3	does this use Phrygian
+3	does this use Dorian
+3	does this use Ionian
+3	is this in Locrian
+3	is this in Aeolian
+3	is this in Mixolydian
+3	is this in Lydian
+3	is this in Phrygian
+3	is this in Dorian
+3	is this in Ionian
+2	tell me about the connection between cadence and modulation
+2	tell me about the connection between mode and key center
+2	tell me about the connection between subdominant and dominant
+2	tell me about the connection between dominant and tonic
+2	tell me about the difference between cadence and modulation
+2	tell me about the difference between mode and key center
+2	tell me about the difference between subdominant and dominant
+2	tell me about the difference between dominant and tonic
+2	tell me about the relationship between cadence and modulation
+2	tell me about the relationship between mode and key center
+2	tell me about the relationship between subdominant and dominant
+2	tell me about the relationship between dominant and tonic
+2	describe the connection between cadence and modulation
+2	describe the connection between mode and key center
+2	describe the connection between subdominant and dominant
+2	describe the connection between dominant and tonic
+2	describe the difference between cadence and modulation
+2	describe the difference between mode and key center
+2	describe the difference between subdominant and dominant
+2	describe the difference between dominant and tonic
+2	describe the relationship between cadence and modulation
+2	describe the relationship between mode and key center
+2	describe the relationship between subdominant and dominant
+2	describe the relationship between dominant and tonic
+2	explain the connection between cadence and modulation
+2	explain the connection between mode and key center
+2	explain the connection between subdominant and dominant
+2	explain the connection between dominant and tonic
+2	explain the difference between cadence and modulation
+2	explain the difference between mode and key center
+2	explain the difference between subdominant and dominant
+2	explain the difference between dominant and tonic
+2	explain the relationship between cadence and modulation
+2	explain the relationship between mode and key center
+2	explain the relationship between subdominant and dominant
+2	explain the relationship between dominant and tonic

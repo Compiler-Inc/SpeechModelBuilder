@@ -1,0 +1,11 @@
+{
+    "locale": "en_US",
+    "version": "com.your.app.speech.music.cli:1.0",
+    "supported_locales": [
+        "eng-USA"
+    ],
+    "content-list": [
+        "custom-prons",
+        "phrase-count"
+    ]
+}
